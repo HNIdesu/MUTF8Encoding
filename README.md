@@ -21,7 +21,7 @@
       <td>0x0001 - 0x007F</td>
       <td>7</td>
       <td>1</td>
-      <td>ACII</td>
+      <td>ASCII</td>
       <td>0XXXXXXX</td>
     </tr>
     <tr>
