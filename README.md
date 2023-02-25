@@ -1,6 +1,6 @@
 # MUTF8Encoding
 
-<h1>编码原理</h1>
+<h2>编码原理</h2>
 <table>
   <tbody>
     <tr>
